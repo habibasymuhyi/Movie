@@ -3,4 +3,4 @@
 3. Akses dengan direktori http://localhost/movie/streaming/
 4. Klik Masuk sebagai admin, 
    Username : habib26
-   Password : 11111111
+   dan Password : 11111111
